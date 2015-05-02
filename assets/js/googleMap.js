@@ -63,7 +63,7 @@ function handleNoGeolocation(errorFlag) {
   };
 
   if(container.state == false)
-    image.url = 'assets/img/alert_container_marker.png'
+    image.url = 'assets/img/full_container_marker.png'
 
 
 
